@@ -5,3 +5,7 @@
 # Developing
 
 - Berisi Kode Developing
+
+# Register Feature
+
+- Kode berisi register app
